@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <style>
+      html {
+        font-size: 20px;
+        display: block;
+      }
+
+      body {
+        font-family: Arial;
+        font-size: -1.6rem;
+        line-height: 1.5;
+        text-align: center;
+        color: #333;
+        margin: 0;
+        display: block;
+      }
+
+      ul  {
+        text-align: left;
+        margin-left: 600px;
+        margin-right: 600px;
+
+      }
+
+      li  {
+        margin: 30px;
+      }
+
+      blockquote  {
+        margin-left: 600px;
+        margin-right: 600px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        font-style: italic;
+      }
+    </style>
+    <title id="title">LeJon J. Heflin</title>
+  <body>
+    <header>
+      <h1>My About Me</h1>
+    </header>
+    <main id="main">
+      <div id="img-div">
+        <img id="image" src="C:\Users\hefli\OneDrive\Pictures\Lightroom\img_3520.jpg" alt="My team and I clearing a village with live ammunition during a training exercise in Germany."/>
+        <figcaption id="img-caption">This picture show me (Second from the right) at a range in Grafenwoehr, Germany with my team in 2017</figcaption>
+        <section id="tribute-info">
+          <h3 id="headline">Here's a timeline of my life</h3>
+          <ul>
+            <li>1998 - Born in Tamuning, Guam</li>
+            <li>2012 - Freshman year of High School in AP classes and starting MLB in Choctawhatchee varsity football team</li>
+            <li>2016 - Graduated High School with a 3.2 GPA and enlisted in the U.S. Army in Sep2016</li>
+            <li>Feb2017 - Graduated OSUT (One Station Unit Training) at Fort Benning Georgia as a 19D (Cavalry Scout) and started U.S. Army Airborne School</li>
+            <li>Mar2017 - Graduated U.S. Army Airborne with 5 consecutive static line jumps in C-130J (Super Hercules) and boarded a plane to go to my first duty station in Germany.</li>
+            <li>2018 - Went on multinational exercises in Spain, Latvia, Lithuania, Germany, Poland, Czech Republic, Austria, and Italy</li>
+            <li>2019 - PCS (Permanent Change of Station) to Fort Bragg, NC in January and deployed to Afghanistan on 04July</li>
+            <li>Jan2020 - Returned from Afghanistan to pursue MANPADS (Man Portable Air Defense Systems) training for the Stringer Missile at Fort Sill, OK and graduated in March</li>
+            <li>Oct2020 - Went to school for AMMO-62 (Transportation of Hazardous Materials) which I learned how to identify and conduct packaging of HAZMAT items and how to transport through Rail, Vessel, Commercial Air, and Military Air(</li>
+            <li>Nov2020 - Became my companies Operation Sergeant</li>
+            <li>Jul2021 - Become 3rd Platoon Section leader as an E-5 (Sergeant) which is a E-6 (Staff Sergeant) position</li>
+            <li>Aug2021 - Feb2022 - Become 3rd Platoon Platoon Sergeant as an E-5 which is an E-7 (Sergeant First Class) positon</li>
+            <li>Mar2022 - Voluntarily moved to my companies Operation Sergeant</li>
+            <li>Mar2023 - I ETSed (Expiration Term of Service) with 6 1/2 enlisted to pursue education and enrolled into UNCP (University of North Carolina - Pembroke) for a Bachelor in Science (Computer Science)</li>
+          </ul>
+          <blockquote cite="https://blog.hubspot.com/sales/famous-quotes">
+            <p>"Tell me and I forget. Teach me and I remember. Involve me and I learn."</p>
+            <cite>-- Benjamin Franklin</cite>
+          </blockquote>
+          <h3>If you want to know more about me my <a id="tribute-link" href="https://github.com/TheOriginalHef" target="_blank">GitHub</a> is attached.</h3>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>
